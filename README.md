@@ -17,7 +17,7 @@ This example can be run using [Docker](http://docker.io) and I would strongly ad
 hours to work through the guide on how to use this *great* piece of software.
 
 ## Run the image
-When you have Docker installed, you can launch a [containerized version](https://registry.hub.docker.com/u/dnvriend/spray-ba-jdbc/). 
+When you have Docker installed, you can launch a [containerized version](https://registry.hub.docker.com/u/dnvriend/spray-ba-cass/). 
 However, this example uses four containers, three that will run the Cassandra cluster and one that will run the example application.
 We will use the Cassandra images by [Tushar Pokle](https://github.com/pokle/cassandra):
 
